@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsl(350, 89%, 76%);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#id {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#anotherid {
+    background-color: hsl(120, 32%, 47%);
+    font-size: 24px;
+    font-weight: bold;
+}
